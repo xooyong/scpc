@@ -4,6 +4,7 @@ import pandas as pd
 
 from tqdm import tqdm
 from sklearn.model_selection import train_test_split
+from PIL import Image
 
 import torch
 from torch.utils.data import DataLoader
