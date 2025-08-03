@@ -1,35 +1,119 @@
 === T5 모델 답변 로그 ===
 총 852개 프롬프트 처리
-시작 시간: 2025-08-03 20:39:24
+시작 시간: 2025-08-03 23:06:43
 ==================================================
 
 [001] ID: TEST_000
 Question: What types of fruits are visible in the image?
 Answer: Apples and oranges are the most common fruits in the image. The answer: (B).
-Timestamp: 2025-08-03 20:39:25
+Timestamp: 2025-08-03 23:06:43
 ----------------------------------------
 
 [002] ID: TEST_001
 Question: What type of cuisine are these dishes most commonly associated with?
 Answer: Chinese, famous for dumplings and noodles. Dumplings are most commonly associated with Chinese cuisine. Thus, the answer is (A).
-Timestamp: 2025-08-03 20:39:25
+Timestamp: 2025-08-03 23:06:43
 ----------------------------------------
 
 [003] ID: TEST_002
 Question: What is a common reason people doing this activity?
 Answer: People often go hiking for physical exercise and scenic views of the landscape. The answer: (B).
-Timestamp: 2025-08-03 20:39:25
+Timestamp: 2025-08-03 23:06:44
 ----------------------------------------
 
 [004] ID: TEST_003
 Question: What type of clothing are the people wearing, and what does it suggest about the climate?
 Answer: Heavy coats are used in cold climates. Light clothing is used in warm climates. So the answer is (C).
-Timestamp: 2025-08-03 20:39:25
+Timestamp: 2025-08-03 23:06:44
 ----------------------------------------
 
 [005] ID: TEST_004
 Question: What might the woman have done just before this moment?
 Answer: (B) Practiced her routine several times to perfect it. The woman might have just before this moment been practicing her routine several times to perfect it. So the answer is (B).
-Timestamp: 2025-08-03 20:39:26
+Timestamp: 2025-08-03 23:06:44
+----------------------------------------
+
+[006] ID: TEST_005
+Question: What is happening or why?
+Answer: The boats are racing in a regatta competition. The boats are in the water on a sunny day. The boats are racing in a regatta competition. So the answer is (C).
+Timestamp: 2025-08-03 23:06:44
+----------------------------------------
+
+[007] ID: TEST_006
+Question: What is happening or why?
+Answer: Dolphins are animals that live in the ocean. Dolphins jump in the air to escape the ocean waves. Dolphins perform a leap above the ocean waves. So the answer is (B).
+Timestamp: 2025-08-03 23:06:45
+----------------------------------------
+
+[008] ID: TEST_007
+Question: What is happening or why?
+Answer: The person is testing a flight simulator for training purposes. The answer: (D).
+Timestamp: 2025-08-03 23:06:45
+----------------------------------------
+
+[009] ID: TEST_008
+Question: What might have happened earlier before this scene?
+Answer: Participants gathering at a meeting point before the ride
+Timestamp: 2025-08-03 23:06:45
+----------------------------------------
+
+[010] ID: TEST_009
+Question: What causes the sharp pain often felt in the head when eating something like this too quickly?
+Answer: Sudden brain pressure due to rapid intake is the sharp pain often felt in the head when eating something like this too quickly. So the answer is (B).
+Timestamp: 2025-08-03 23:06:45
+----------------------------------------
+
+[011] ID: TEST_010
+Question: What is happening or why?
+Answer: A person is waiting for someone in a snowy cafe, looking out the window. So the answer is (B).
+Timestamp: 2025-08-03 23:06:45
+----------------------------------------
+
+[012] ID: TEST_011
+Question: Why are there the object on the wall in this setting?
+Answer: (B) To allow customers to see their haircuts and styles. The mirror is on the wall to allow customers to see their haircuts and styles. So the answer is (B).
+Timestamp: 2025-08-03 23:06:46
+----------------------------------------
+
+[013] ID: TEST_012
+Question: Why is the child airborne in the image?
+Answer: The child is jumping on a trampoline for fun. The child is airborne because he is jumping on a trampoline. So the answer is (B).
+Timestamp: 2025-08-03 23:06:46
+----------------------------------------
+
+[014] ID: TEST_013
+Question: What cultural tradition might this meal represent?
+Answer: Thanksgiving is a cultural tradition in the United States. Thanksgiving is a holiday that celebrates the birth of Jesus Christ. Thanksgiving is a meal that includes a turkey as a main dish. So, the answer is (C).
+Timestamp: 2025-08-03 23:06:46
+----------------------------------------
+
+[015] ID: TEST_014
+Question: What is happening or why?
+Answer: The ice creams are being served to customers. The ice creams are being served to customers. So, the answer is (C).
+Timestamp: 2025-08-03 23:06:47
+----------------------------------------
+
+[016] ID: TEST_015
+Question: What might the landscape look like in the next season?
+Answer: In the next season, the trees would be full of leaves and greenery all around. The answer: (D).
+Timestamp: 2025-08-03 23:06:47
+----------------------------------------
+
+[017] ID: TEST_016
+Question: What is the vehicle shown in the image?
+Answer: Tractor is a vehicle with large tires and agricultural equipment. The vehicle shown in the image is a tractor. The answer: (B).
+Timestamp: 2025-08-03 23:06:47
+----------------------------------------
+
+[018] ID: TEST_017
+Question: What type of food is shown in the image?
+Answer: A bowl of food is shown in the image. The food is a hot dog or sausage stew. The answer: (A).
+Timestamp: 2025-08-03 23:06:47
+----------------------------------------
+
+[019] ID: TEST_018
+Question: What is a common term for the action performed by the player in the sports?
+Answer: Common term for the action performed by the player in the sports is the action performed by the player. The answer: (A).
+Timestamp: 2025-08-03 23:06:47
 ----------------------------------------
 

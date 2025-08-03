@@ -72,11 +72,11 @@ scpc/
 > `data/` 디렉토리 안에는 테스트 이미지가 저장된 `test_input_images/`디렉토리와 `test.csv` 파일이 존재해야 합니다.  
 
 ## 실행
-### 1. 이미지 캡션 생성
+### 1. 이미지 캡션 생성(필요 시)
 ```bash
 python caption_generator.py
 ```
-### 2. VQA 출력 생성
+### 2. VQA 출력 생성(필요 시)
 ```bash
 python vqa_generator.py
 ```

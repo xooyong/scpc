@@ -205,7 +205,7 @@ for i, item in enumerate(tqdm(prompts, desc="T5 추론 중"), 1):
     answer = generated_text.strip()
     
     # 콘솔 출력
-    # print(f"[{i}/{len(prompts)}] {id_}: '{answer}'")
+    print(f"[{i}/{len(prompts)}] {id_}: '{answer}'")
     
     # 답변 로그 파일에 실시간 저장
     with open(answer_log_filename, "a", encoding="utf-8") as answer_log:
