@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 # 🧠 이미지 캡셔닝 + VQA 모델 솔루션
 
-본 프로젝트는 이미지 기반 4지선다형 VQA(Vision Question Answering) 문제를 해결하기 위해,  
+본 프로젝트는 이미지 기반 4지선다형 VQA(Vision Question Answering) 문제를 해결하기 위해,
 이미지 캡셔닝 모델, VQA 모델과 텍스트 기반 생성 모델(FLAN-T5)을 조합한 파이프라인입니다.
 
 
@@ -69,7 +69,7 @@ scpc/
 ├── vqa_generator.py # VQA 출력 생성
 ```
 
-> `data/` 디렉토리 안에는 테스트 이미지가 저장된 `test_input_images/`디렉토리와 `test.csv` 파일이 존재해야 합니다.  
+> `data/` 디렉토리 안에는 테스트 이미지가 저장된 `test_input_images/`디렉토리와 `test.csv` 파일이 존재해야 합니다.
 
 ## 실행
 ### 1. 이미지 캡션 생성(필요 시)
@@ -80,7 +80,7 @@ python caption_generator.py
 ```bash
 python vqa_generator.py
 ```
-> outputs/에 미리 저장되어 있으므로 필요 시에 이미지 캡션과 VQA 출력 생성
+> outputs/에 이미지 캡션(stanford_epoch5_augmentation_captions.csv)과 VQA 출력(blip_vqa_augmentation_results.csv)이 미리 저장되어 있으므로 필요 시에 이미지 캡션과 VQA 출력 생성
 ### 3. 추론
 ```bash
 python inference.py
