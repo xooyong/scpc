@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ```bash
 scpc/
 ├── data/ # 입력 이미지 및 CSV(test/train)
-├── models/ # 학습된 가중치 (.safetensors)
+├── models/ # 학습된 blip-image-captioning-large 모델 가중치 (.safetensors)
 ├── outputs/ # 예측 결과 저장
 ├── .gitignore
 ├── README.md
