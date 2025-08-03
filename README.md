@@ -66,12 +66,12 @@ scpc/
 ├── requirements.txt # 필요한 패키지 목록
 ├── train.py # 이미지 캡셔닝 모델(BLIP) 학습
 ├── utils.py # 로그 생성, 이미지 증강 등의 공통 함수 정의
-├── vqa_generator.py # VQA 출력 생성
+└── vqa_generator.py # VQA 출력 생성
 ```
 
 > `data/` 디렉토리 안에는 테스트 이미지가 저장된 `test_input_images/`디렉토리와 `test.csv` 파일이 존재해야 합니다.
 
-## 실행
+## 🚀 실행
 ### 1. 이미지 캡션 생성(필요 시)
 ```bash
 python caption_generator.py
