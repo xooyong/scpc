@@ -1,6 +1,6 @@
 backup
 venv
-models
+# models
 data/
 __pycahe__
 ipynb
