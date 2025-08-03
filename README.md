@@ -34,8 +34,8 @@ pip install -r requirements.txt
 ---
 
 ## 📌 주요 기능
-- 이미지에서 캡션 생성 (BLIP 사용)
-- 캡션 + 질문 + 선택지 → 정답을 생성하는 텍스트 모델 (T5 기반)
+- 이미지에서 캡션과 VQA 출력 생성 (BLIP 사용)
+- 캡션 + 질문 + 선택지 → 정답을 생성하는 텍스트 모델 (google/flan-t5-large)
 - 제출용 CSV 생성 기능 포함
 
 ---
