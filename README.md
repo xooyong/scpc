@@ -44,7 +44,8 @@ pip install -r requirements.txt
 
 | Task | Model | 설명 |
 |------|-------|------|
-| 이미지 캡셔닝 | BLIP (base / large) | 이미지에서 자연어 설명 생성 |
+| 이미지 캡셔닝 | blip-image-captioning-large | 이미지에 대한 설명 생성 |
+| VQA | blip-vqa-base | 이미지에 대해서 질문에 대한 답 생성 |
 | 정답 생성 | FLAN-T5 | 질문에 대해 A/B/C/D 중 하나 생성 |
 | 학습 기법 | LoRA | 경량 파인튜닝 |
 
