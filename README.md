@@ -69,7 +69,17 @@ scpc/
 └── vqa_generator.py # VQA 출력 생성
 ```
 
-> `data/` 디렉토리 안에는 테스트 이미지가 저장된 `test_input_images/`디렉토리와 `test.csv` 파일이 존재해야 합니다.
+> `data/` 디렉토리 내부에는 테스트 이미지가 저장된 `test_input_images/`디렉토리와 `test.csv` 파일이 존재해야 합니다.
+
+## 🏋️ 학습
+```bash
+python train.py
+```
+> `data/` 디렉토리 내부에는 학습 데이터가 저장된 `archive/`가 존재해야 되고 이 내부에는 `stanford_img`와 `stanford_df_rectified.csv`가 존재해야 합니다.
+
+### 🔗 학습 데이터 다운로드
+- [stanford Image Paragraph Captioning dataset](https://www.kaggle.com/datasets/vakadanaveen/stanford-image-paragraph-captioning-dataset)
+
 
 ## 🚀 실행
 ### 1. 이미지 캡션 생성(필요 시)
