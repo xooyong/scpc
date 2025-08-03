@@ -31,14 +31,14 @@ pip install -r requirements.txt
 본 프로젝트는 이미지 기반 4지선다형 VQA(Vision Question Answering) 문제를 해결하기 위해,  
 이미지 캡셔닝 모델, VQA 모델과 텍스트 기반 생성 모델(FLAN-T5)을 조합한 파이프라인입니다.
 
----
+
 
 ## 📌 주요 기능
 - 이미지에서 캡션 생성 (BLIP 사용)
 - 캡션 + 질문 + 선택지 → 정답을 생성하는 텍스트 모델 (T5 기반)
 - 제출용 CSV 생성 기능 포함
 
----
+
 
 ## 🧱 사용된 AI 모델
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 | 정답 생성 | FLAN-T5 | 질문에 대해 A/B/C/D 중 하나 생성 |
 | 학습 기법 | LoRA | 경량 파인튜닝 |
 
----
+
 
 ## 📂 디렉토리 구조
 
