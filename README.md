@@ -1,7 +1,7 @@
 # scpc
 2025 Samsung Collegiate Programming Challenge : AI 챌린지
 
-[본선 발표 ppt](https://github.com/xooyong/scpc/blob/main/scpc%20%EB%B3%B8%EC%84%A0%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+[본선 발표 ppt](https://github.com/xooyong/scpc/blob/main/%EB%B3%B8%EC%84%A0%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 # 🔧 환경 구성 및 실행 가이드
 
 ## 📋 시스템 환경
